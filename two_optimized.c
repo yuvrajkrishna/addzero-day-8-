@@ -2,7 +2,7 @@
 
 int main() {
 
-    unsigned int n = 120;
+    unsigned int n = 13;
     int started = 0;
 
     for (int i = 31; i >= 0; i--) {
